@@ -47,7 +47,10 @@ Authored a research paper exploring the use of Natural Language Processing (NLP)
 ## Certifications
 - LinkedIn Advertising Fundamentals (Jun 2025 – Jun 2027)  
 - LinkedIn Content and Creative Design (Jun 2025 – Jun 2027)  
-- Future of Teaching and Learning in the Post-AI Era – University of Management and Technology (UMT)
+- Future of Teaching and Learning in the Post-AI Era – University of Management and Technology (UMT) 
+- HubSpot Inbound Sales Certification
+- Onepage CRM Sale Expert 
+
   
 ---
 
